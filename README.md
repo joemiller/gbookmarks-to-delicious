@@ -27,4 +27,4 @@ Thanks to http://www.mmartins.com/mmartins/googlebookmarksapi/ for info on the X
 
 Author
 ------
-joe miller, <joeym@joeym.net>.  http://joemiller.me
+joe miller, http://joemiller.me
